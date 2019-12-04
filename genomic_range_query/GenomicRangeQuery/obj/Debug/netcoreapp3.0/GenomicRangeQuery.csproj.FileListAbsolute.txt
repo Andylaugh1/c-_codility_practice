@@ -1,0 +1,11 @@
+/Users/user/Documents/CodilityPractice/genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery
+/Users/user/Documents/CodilityPractice/genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery.deps.json
+/Users/user/Documents/CodilityPractice/genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery.runtimeconfig.json
+/Users/user/Documents/CodilityPractice/genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery.runtimeconfig.dev.json
+/Users/user/Documents/CodilityPractice/genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery.dll
+/Users/user/Documents/CodilityPractice/genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery.pdb
+/Users/user/Documents/CodilityPractice/genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.csprojAssemblyReference.cache
+/Users/user/Documents/CodilityPractice/genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.AssemblyInfoInputs.cache
+/Users/user/Documents/CodilityPractice/genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.AssemblyInfo.cs
+/Users/user/Documents/CodilityPractice/genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.dll
+/Users/user/Documents/CodilityPractice/genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.pdb
