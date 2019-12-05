@@ -2,78 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01f3c3f4-a967-4a82-a5c4-0064f247d21e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/.idea/.idea.MinAvgTwoSlice/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/.idea/.idea.MinAvgTwoSlice/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/.idea/.idea.MinAvgTwoSlice/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/.idea/.idea.MinAvgTwoSlice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/.idea/.idea.MinAvgTwoSlice/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/.idea/.idea.MinAvgTwoSlice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/.idea/.idea.MinAvgTwoSlice/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/MinAvgTwoSlice.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/MinAvgTwoSlice.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/obj/Debug/netcoreapp3.0/MinAvgTwoSlice.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/obj/Debug/netcoreapp3.0/MinAvgTwoSlice.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/obj/Debug/netcoreapp3.0/MinAvgTwoSlice.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/obj/Debug/netcoreapp3.0/MinAvgTwoSlice.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/obj/MinAvgTwoSlice.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/obj/MinAvgTwoSlice.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/obj/MinAvgTwoSlice.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/obj/MinAvgTwoSlice.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/.idea/.idea.NailingPlanks/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/.idea/.idea.NailingPlanks/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/.idea/.idea.NailingPlanks/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/.idea/.idea.NailingPlanks/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/.idea/.idea.NailingPlanks/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/.idea/.idea.NailingPlanks/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/.idea/.idea.NailingPlanks/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/NailingPlanks.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/obj/Debug/netcoreapp3.0/NailingPlanks.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/obj/Debug/netcoreapp3.0/NailingPlanks.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/obj/Debug/netcoreapp3.0/NailingPlanks.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/obj/Debug/netcoreapp3.0/NailingPlanks.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/obj/NailingPlanks.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/obj/NailingPlanks.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/obj/NailingPlanks.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/obj/NailingPlanks.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NailingPlanks/NailingPlanks/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/.idea/.idea.GenomicRangeQuery/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/.idea/.idea.GenomicRangeQuery/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/.idea/.idea.GenomicRangeQuery/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/.idea/.idea.GenomicRangeQuery/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/.idea/.idea.GenomicRangeQuery/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/.idea/.idea.GenomicRangeQuery/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/.idea/.idea.GenomicRangeQuery/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/GenomicRangeQuery.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/GenomicRangeQuery.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/bin/Debug/netcoreapp3.0/GenomicRangeQuery.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/Debug/netcoreapp3.0/GenomicRangeQuery.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/GenomicRangeQuery.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/GenomicRangeQuery.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/GenomicRangeQuery.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/GenomicRangeQuery.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genomic_range_query/GenomicRangeQuery/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinAvgTwoSlice/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/Program.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +14,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../MinAvgTwoSlice/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -148,7 +78,7 @@
       <updated>1574758644634</updated>
       <workItem from="1574758646103" duration="6283000" />
       <workItem from="1574845143947" duration="1792000" />
-      <workItem from="1575044362918" duration="6609000" />
+      <workItem from="1575044362918" duration="6698000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,11 @@
+/Users/user/Documents/CodilityPractice/MinAvgTwoSlice/bin/Debug/netcoreapp3.0/MinAvgTwoSlice
+/Users/user/Documents/CodilityPractice/MinAvgTwoSlice/bin/Debug/netcoreapp3.0/MinAvgTwoSlice.deps.json
+/Users/user/Documents/CodilityPractice/MinAvgTwoSlice/bin/Debug/netcoreapp3.0/MinAvgTwoSlice.runtimeconfig.json
+/Users/user/Documents/CodilityPractice/MinAvgTwoSlice/bin/Debug/netcoreapp3.0/MinAvgTwoSlice.runtimeconfig.dev.json
+/Users/user/Documents/CodilityPractice/MinAvgTwoSlice/bin/Debug/netcoreapp3.0/MinAvgTwoSlice.dll
+/Users/user/Documents/CodilityPractice/MinAvgTwoSlice/bin/Debug/netcoreapp3.0/MinAvgTwoSlice.pdb
+/Users/user/Documents/CodilityPractice/MinAvgTwoSlice/obj/Debug/netcoreapp3.0/MinAvgTwoSlice.csprojAssemblyReference.cache
+/Users/user/Documents/CodilityPractice/MinAvgTwoSlice/obj/Debug/netcoreapp3.0/MinAvgTwoSlice.AssemblyInfoInputs.cache
+/Users/user/Documents/CodilityPractice/MinAvgTwoSlice/obj/Debug/netcoreapp3.0/MinAvgTwoSlice.AssemblyInfo.cs
+/Users/user/Documents/CodilityPractice/MinAvgTwoSlice/obj/Debug/netcoreapp3.0/MinAvgTwoSlice.dll
+/Users/user/Documents/CodilityPractice/MinAvgTwoSlice/obj/Debug/netcoreapp3.0/MinAvgTwoSlice.pdb
