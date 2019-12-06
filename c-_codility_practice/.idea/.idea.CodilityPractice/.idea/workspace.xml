@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01f3c3f4-a967-4a82-a5c4-0064f247d21e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../MinAvgTwoSlice/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../MinAvgTwoSlice/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDiv/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDiv/.idea/.idea.CountDiv/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDiv/.idea/.idea.CountDiv/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDiv/.idea/.idea.CountDiv/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDiv/.idea/.idea.CountDiv/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDiv/.idea/.idea.CountDiv/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

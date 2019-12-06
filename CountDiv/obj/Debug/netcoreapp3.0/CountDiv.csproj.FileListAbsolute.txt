@@ -1,0 +1,11 @@
+/Users/user/Documents/CodilityPractice/CountDiv/bin/Debug/netcoreapp3.0/CountDiv
+/Users/user/Documents/CodilityPractice/CountDiv/bin/Debug/netcoreapp3.0/CountDiv.deps.json
+/Users/user/Documents/CodilityPractice/CountDiv/bin/Debug/netcoreapp3.0/CountDiv.runtimeconfig.json
+/Users/user/Documents/CodilityPractice/CountDiv/bin/Debug/netcoreapp3.0/CountDiv.runtimeconfig.dev.json
+/Users/user/Documents/CodilityPractice/CountDiv/bin/Debug/netcoreapp3.0/CountDiv.dll
+/Users/user/Documents/CodilityPractice/CountDiv/bin/Debug/netcoreapp3.0/CountDiv.pdb
+/Users/user/Documents/CodilityPractice/CountDiv/obj/Debug/netcoreapp3.0/CountDiv.csprojAssemblyReference.cache
+/Users/user/Documents/CodilityPractice/CountDiv/obj/Debug/netcoreapp3.0/CountDiv.AssemblyInfoInputs.cache
+/Users/user/Documents/CodilityPractice/CountDiv/obj/Debug/netcoreapp3.0/CountDiv.AssemblyInfo.cs
+/Users/user/Documents/CodilityPractice/CountDiv/obj/Debug/netcoreapp3.0/CountDiv.dll
+/Users/user/Documents/CodilityPractice/CountDiv/obj/Debug/netcoreapp3.0/CountDiv.pdb
