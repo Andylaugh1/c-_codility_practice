@@ -1,0 +1,11 @@
+/Users/user/Documents/CodilityPractice/MaxProductOfThree/bin/Debug/netcoreapp3.0/MaxProductOfThree
+/Users/user/Documents/CodilityPractice/MaxProductOfThree/bin/Debug/netcoreapp3.0/MaxProductOfThree.deps.json
+/Users/user/Documents/CodilityPractice/MaxProductOfThree/bin/Debug/netcoreapp3.0/MaxProductOfThree.runtimeconfig.json
+/Users/user/Documents/CodilityPractice/MaxProductOfThree/bin/Debug/netcoreapp3.0/MaxProductOfThree.runtimeconfig.dev.json
+/Users/user/Documents/CodilityPractice/MaxProductOfThree/bin/Debug/netcoreapp3.0/MaxProductOfThree.dll
+/Users/user/Documents/CodilityPractice/MaxProductOfThree/bin/Debug/netcoreapp3.0/MaxProductOfThree.pdb
+/Users/user/Documents/CodilityPractice/MaxProductOfThree/obj/Debug/netcoreapp3.0/MaxProductOfThree.csprojAssemblyReference.cache
+/Users/user/Documents/CodilityPractice/MaxProductOfThree/obj/Debug/netcoreapp3.0/MaxProductOfThree.AssemblyInfoInputs.cache
+/Users/user/Documents/CodilityPractice/MaxProductOfThree/obj/Debug/netcoreapp3.0/MaxProductOfThree.AssemblyInfo.cs
+/Users/user/Documents/CodilityPractice/MaxProductOfThree/obj/Debug/netcoreapp3.0/MaxProductOfThree.dll
+/Users/user/Documents/CodilityPractice/MaxProductOfThree/obj/Debug/netcoreapp3.0/MaxProductOfThree.pdb
